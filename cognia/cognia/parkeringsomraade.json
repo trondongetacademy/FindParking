@@ -1,0 +1,2551 @@
+[
+    {
+        "id": 32771,
+        "parkeringstilbyderNavn": "P-NORGE AS",
+        "breddegrad": 59.920798,
+        "lengdegrad": 10.750878,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Maridalsveien 10",
+        "adresse": "Maridalsveien 10",
+        "postnummer": "0178",
+        "poststed": "OSLO",
+        "aktiveringstidspunkt": "2020-11-12T10:41:42Z",
+        "parkingForTrucks": true,
+        "fuelStationForTrucks": true,
+        "openingTime": {
+            "monday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "09:00",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "10:00",
+                "close": "20:00"
+            }
+        },
+        "facility": {
+            "restaurant": true,
+            "toilet": true,
+            "shower": true
+        }
+    },
+    {
+        "id": 49156,
+        "parkeringstilbyderNavn": "TRONDHEIM PARKERING",
+        "breddegrad": 63.43304,
+        "lengdegrad": 10.404391,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Midlertidig skilting ved Kjøpmannsgata 71",
+        "adresse": "Kjøpmannsgata 71",
+        "postnummer": "7010",
+        "poststed": "TRONDHEIM",
+        "aktiveringstidspunkt": "2022-02-18T14:20:33Z"
+    },
+    {
+        "id": 16391,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.147083,
+        "lengdegrad": 7.972801,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Møllevannsveien 36-44 (Idda)",
+        "adresse": "Møllevannsveien 36",
+        "postnummer": "4616",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-26T08:26:30Z"
+    },
+    {
+        "id": 16394,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.135332,
+        "lengdegrad": 8.084988,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Odderheisløyfen v/85",
+        "adresse": "Odderheisløyfen 85",
+        "postnummer": "4639",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:34:09Z"
+    },
+    {
+        "id": 16395,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.137698,
+        "lengdegrad": 8.087164,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Odderheitoppen v/14",
+        "adresse": "Odderheitoppen 14",
+        "postnummer": "4639",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:35:47Z"
+    },
+    {
+        "id": 16396,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.153036,
+        "lengdegrad": 7.952768,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Suldalsveien vav /29",
+        "adresse": "Suldalsveien 35",
+        "postnummer": "4617",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-26T08:41:38Z"
+    },
+    {
+        "id": 16397,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.152388,
+        "lengdegrad": 7.954735,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Suldalsveien 13",
+        "adresse": "Suldalsveien 13",
+        "postnummer": "4617",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-26T08:42:42Z"
+    },
+    {
+        "id": 16399,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.158039,
+        "lengdegrad": 8.080122,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Ronnatoppen v/ Trafo",
+        "adresse": "Ronatoppen",
+        "postnummer": "4638",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:40:26Z"
+    },
+    {
+        "id": 16400,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.157834,
+        "lengdegrad": 8.080801,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Ronatoppen v/26",
+        "adresse": "Ronatoppen 26",
+        "postnummer": "4638",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:41:25Z"
+    },
+    {
+        "id": 16401,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.158427,
+        "lengdegrad": 8.080148,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Ronatoppen v /36",
+        "adresse": "Ronatoppen 36A",
+        "postnummer": "4638",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:45:38Z",
+        "parkingForTrucks": true,
+        "fuelStationForTrucks": true,
+        "openingTime": {
+            "monday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "09:00",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "10:00",
+                "close": "20:00"
+            }
+        },
+        "facility": {
+            "restaurant": true,
+            "toilet": true,
+            "shower": true
+        }
+    },
+    {
+        "id": 16402,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.192209,
+        "lengdegrad": 7.934443,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Gangdalslia v/56",
+        "adresse": "Gangdalslia 56",
+        "postnummer": "4618",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T07:18:44Z"
+    },
+    {
+        "id": 32792,
+        "parkeringstilbyderNavn": "KRISTIANSUND PRIVATPARKERING AS",
+        "breddegrad": 63.120451,
+        "lengdegrad": 7.719469,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Kristiansund Videregående skole",
+        "adresse": "Sankthanshaugen 3",
+        "postnummer": "6514",
+        "poststed": "KRISTIANSUND N",
+        "aktiveringstidspunkt": "2020-11-16T09:45:03Z"
+    },
+    {
+        "id": 16411,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.130603,
+        "lengdegrad": 8.081548,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Trossestien",
+        "adresse": "Trossestien 16",
+        "postnummer": "4639",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:28:33Z"
+    },
+    {
+        "id": 16412,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.136312,
+        "lengdegrad": 8.084166,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Odderheisløyfen v/30",
+        "adresse": "Odderheisløyfen 30",
+        "postnummer": "4639",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:30:13Z"
+    },
+    {
+        "id": 16413,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.077503,
+        "lengdegrad": 7.993659,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Sildenestangen",
+        "adresse": "Sildenestangen 7",
+        "postnummer": "4625",
+        "poststed": "FLEKKERØY",
+        "aktiveringstidspunkt": "2020-11-26T15:33:00Z"
+    },
+    {
+        "id": 16414,
+        "parkeringstilbyderNavn": "AIMO PARK NORWAY AS",
+        "breddegrad": 59.939978,
+        "lengdegrad": 10.824472,
+        "deaktivert": null,
+        "versjonsnummer": 4,
+        "navn": "Brobekkveien 31, 33",
+        "adresse": "Brobekkveien 33",
+        "postnummer": "0598",
+        "poststed": "OSLO",
+        "aktiveringstidspunkt": "2022-07-25T12:56:19Z"
+    },
+    {
+        "id": 16415,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.137117,
+        "lengdegrad": 8.085046,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Odderheisløyfen v/38",
+        "adresse": "Odderheisløyfen 38",
+        "postnummer": "4639",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:31:44Z"
+    },
+    {
+        "id": 16416,
+        "parkeringstilbyderNavn": "AIMO PARK NORWAY AS",
+        "breddegrad": 59.935214,
+        "lengdegrad": 10.755449,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2021-07-09T11:18:27Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Maridalsveien 128 P-hus",
+        "adresse": "Maridalsveien 128A",
+        "postnummer": "0461",
+        "poststed": "OSLO",
+        "aktiveringstidspunkt": "2020-11-30T14:19:30Z"
+    },
+    {
+        "id": 16417,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.148546,
+        "lengdegrad": 7.965435,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Solholmsveien/Fagerdalsveien",
+        "adresse": "Solholmsveien 4",
+        "postnummer": "4617",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-26T08:31:09Z"
+    },
+    {
+        "id": 16418,
+        "parkeringstilbyderNavn": "AIMO PARK NORWAY AS",
+        "breddegrad": 59.935169,
+        "lengdegrad": 10.73757,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Thulstrups gate 5-7",
+        "adresse": "Thulstrups Gate 5A",
+        "postnummer": "0451",
+        "poststed": "OSLO",
+        "aktiveringstidspunkt": "2022-07-25T12:41:09Z"
+    },
+    {
+        "id": 16419,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.075682,
+        "lengdegrad": 7.998248,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Vesterøya v/ Risleviga",
+        "adresse": "Vesterøya 4",
+        "postnummer": "4625",
+        "poststed": "FLEKKERØY",
+        "aktiveringstidspunkt": "2022-04-10T17:08:22Z"
+    },
+    {
+        "id": 16420,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.135495,
+        "lengdegrad": 8.085035,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Odderheisløyfen v/83",
+        "adresse": "Odderheisløyfen 83",
+        "postnummer": "4639",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:33:03Z"
+    },
+    {
+        "id": 16421,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.153,
+        "lengdegrad": 7.952538,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Suldalsveien 29-35",
+        "adresse": "Suldalsveien 35",
+        "postnummer": "4617",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-26T08:36:59Z"
+    },
+    {
+        "id": 16422,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.138272,
+        "lengdegrad": 8.085677,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Odderheitunet v/17",
+        "adresse": "Odderheitunet 19",
+        "postnummer": "4639",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:36:37Z"
+    },
+    {
+        "id": 16424,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.156294,
+        "lengdegrad": 8.079718,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Ronatoppen v/1",
+        "adresse": "Ronatoppen 1A",
+        "postnummer": "4638",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:37:56Z"
+    },
+    {
+        "id": 16425,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.156277,
+        "lengdegrad": 8.079947,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Ronatoppen vav /1",
+        "adresse": "Ronatoppen 1A",
+        "postnummer": "4638",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:38:55Z"
+    },
+    {
+        "id": 32811,
+        "parkeringstilbyderNavn": "KRISTIANSUND PRIVATPARKERING AS",
+        "breddegrad": 63.126638,
+        "lengdegrad": 7.737086,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Atlanten Videregående skole",
+        "adresse": "Dalaveien 25",
+        "postnummer": "6511",
+        "poststed": "KRISTIANSUND N",
+        "aktiveringstidspunkt": "2020-11-16T09:37:24Z"
+    },
+    {
+        "id": 16427,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.18307,
+        "lengdegrad": 8.036009,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Justnesskauen P - plass v/ Båthavn",
+        "adresse": "Justnesskauen 17",
+        "postnummer": "4634",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2020-11-26T14:24:04Z"
+    },
+    {
+        "id": 16428,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.150619,
+        "lengdegrad": 7.980682,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Konsul Christiansens vei vav/1",
+        "adresse": "Konsul Christiansens vei 1",
+        "postnummer": "4616",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-26T08:44:59Z"
+    },
+    {
+        "id": 49196,
+        "parkeringstilbyderNavn": "PARKZONE NORGE AS",
+        "breddegrad": 63.286028,
+        "lengdegrad": 10.278167,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Sameiet Melhuset",
+        "adresse": "Rådhusvegen 3",
+        "postnummer": "7224",
+        "poststed": "MELHUS",
+        "aktiveringstidspunkt": "2022-02-20T19:47:04Z"
+    },
+    {
+        "id": 16429,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.153104,
+        "lengdegrad": 7.975882,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Jegergata v/Grimtunet",
+        "adresse": "Jegergata 10A",
+        "postnummer": "4616",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-26T08:58:28Z",
+        "parkingForTrucks": true,
+        "fuelStationForTrucks": true,
+        "openingTime": {
+            "monday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "09:00",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "10:00",
+                "close": "20:00"
+            }
+        },
+        "facility": {
+            "restaurant": true,
+            "toilet": true,
+            "shower": true
+        }
+    },
+    {
+        "id": 49197,
+        "parkeringstilbyderNavn": "PARKZONE NORGE AS",
+        "breddegrad": 63.286562,
+        "lengdegrad": 10.278709,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Melhustorget  (inkl Rema 1000)",
+        "adresse": "Rådhusvegen 7",
+        "postnummer": "7224",
+        "poststed": "MELHUS",
+        "aktiveringstidspunkt": "2022-02-20T19:50:16Z"
+    },
+    {
+        "id": 16430,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.158655,
+        "lengdegrad": 8.078493,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Ronatoppen 33",
+        "adresse": "Ronatoppen 33A",
+        "postnummer": "4638",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:42:42Z"
+    },
+    {
+        "id": 16432,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.073656,
+        "lengdegrad": 7.991469,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Skudeviga / Kystveien",
+        "adresse": "Skudeviga",
+        "postnummer": "4639",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:46:12Z"
+    },
+    {
+        "id": 16433,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.135711,
+        "lengdegrad": 7.931513,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Slettheiveien v/59-61",
+        "adresse": "Slettheiveien 59A",
+        "postnummer": "4626",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T06:47:23Z"
+    },
+    {
+        "id": 16436,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.213784,
+        "lengdegrad": 8.121566,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Dønnestadveien v/86-mot idrettsanlegg",
+        "adresse": "Dønnestadveien 82",
+        "postnummer": "4658",
+        "poststed": "TVEIT",
+        "aktiveringstidspunkt": "2022-04-26T11:14:15Z"
+    },
+    {
+        "id": 16437,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.190182,
+        "lengdegrad": 7.934227,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Gangdalslia v/34",
+        "adresse": "Gangdalslia 34",
+        "postnummer": "4618",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T07:18:09Z"
+    },
+    {
+        "id": 16439,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.175557,
+        "lengdegrad": 8.045202,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Magnus Barfotsvei v/ Hestnestangen",
+        "adresse": "Hestnestangen 9",
+        "postnummer": "4633",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-01T09:20:20Z"
+    },
+    {
+        "id": 49216,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.087022,
+        "lengdegrad": 7.828168,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Torvmoen",
+        "adresse": "Torvmoen 2",
+        "postnummer": "4640",
+        "poststed": "SØGNE",
+        "aktiveringstidspunkt": "2022-02-21T13:38:03Z"
+    },
+    {
+        "id": 16451,
+        "parkeringstilbyderNavn": "AKER P-DRIFT AS",
+        "breddegrad": 59.906987,
+        "lengdegrad": 10.780914,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Dalehaugen 2-4",
+        "adresse": "Dalehaugen 2",
+        "postnummer": "0657",
+        "poststed": "OSLO",
+        "aktiveringstidspunkt": "2022-03-03T13:56:10Z"
+    },
+    {
+        "id": 16471,
+        "parkeringstilbyderNavn": "ANONYMISERT",
+        "breddegrad": 69.232792,
+        "lengdegrad": 17.982169,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2021-06-29T09:04:56Z"
+        },
+        "versjonsnummer": 1,
+        "navn": "Liaveien, gml. ungdomsskole",
+        "adresse": "Liaveien 10C",
+        "postnummer": "9300",
+        "poststed": "FINNSNES",
+        "aktiveringstidspunkt": "2019-11-06T14:37:27Z"
+    },
+    {
+        "id": 32871,
+        "parkeringstilbyderNavn": "NARVIK KOMMUNE",
+        "breddegrad": 68.54953,
+        "lengdegrad": 17.556819,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Trollvikveien ",
+        "adresse": "Trollvikveien",
+        "postnummer": "8530",
+        "poststed": "BJERKVIK",
+        "aktiveringstidspunkt": "2020-11-17T09:53:28Z"
+    },
+    {
+        "id": 49256,
+        "parkeringstilbyderNavn": "GRIMSTAD KOMMUNE",
+        "breddegrad": 58.341434,
+        "lengdegrad": 8.59633,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Dampen",
+        "adresse": "Smith-Petersens gate 16",
+        "postnummer": "4876",
+        "poststed": "GRIMSTAD",
+        "aktiveringstidspunkt": "2022-02-22T12:15:53Z"
+    },
+    {
+        "id": 49257,
+        "parkeringstilbyderNavn": "ASKER KOMMUNE",
+        "breddegrad": 59.853328,
+        "lengdegrad": 10.483815,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Holmen ishall",
+        "adresse": "Vogellund 26",
+        "postnummer": "1394",
+        "poststed": "NESBRU",
+        "aktiveringstidspunkt": "2022-02-22T12:18:18Z"
+    },
+    {
+        "id": 49276,
+        "parkeringstilbyderNavn": "P-SERVICE AS",
+        "breddegrad": 59.932364,
+        "lengdegrad": 11.067354,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Nedre Rælingsveg 261",
+        "adresse": "Nedre Rælingsveg 261",
+        "postnummer": "2008",
+        "poststed": "FJERDINGBY",
+        "aktiveringstidspunkt": "2022-02-25T10:48:17Z"
+    },
+    {
+        "id": 49296,
+        "parkeringstilbyderNavn": "ONEPARK AS AVD HOVEDKONTOR",
+        "breddegrad": 61.226177,
+        "lengdegrad": 10.545083,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Pellestova",
+        "adresse": "Hundersætervegen 910",
+        "postnummer": "2636",
+        "poststed": "ØYER",
+        "aktiveringstidspunkt": "2022-02-22T14:24:59Z"
+    },
+    {
+        "id": 32931,
+        "parkeringstilbyderNavn": "TRONDHEIM PARKERING",
+        "breddegrad": 63.412282,
+        "lengdegrad": 10.451894,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Åsvang skole",
+        "adresse": "Åsvangvegen 38",
+        "postnummer": "7049",
+        "poststed": "TRONDHEIM",
+        "aktiveringstidspunkt": "2020-11-18T09:39:28Z"
+    },
+    {
+        "id": 49316,
+        "parkeringstilbyderNavn": "SARPSBORG KOMMUNE",
+        "breddegrad": 59.278151,
+        "lengdegrad": 11.119158,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Boligsone 03 Borregaard",
+        "adresse": "Borghilds gate 15",
+        "postnummer": "1721",
+        "poststed": "SARPSBORG",
+        "aktiveringstidspunkt": "2022-02-23T11:29:51Z"
+    },
+    {
+        "id": 16551,
+        "parkeringstilbyderNavn": "APCOA PARKING NORWAY AS",
+        "breddegrad": 63.443505,
+        "lengdegrad": 10.453322,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-03-31T07:35:59Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Haakon VIIs gate 4",
+        "adresse": "Haakon Vii's Gate",
+        "postnummer": "7011",
+        "poststed": "TRONDHEIM",
+        "aktiveringstidspunkt": "2022-02-01T17:09:20Z"
+    },
+    {
+        "id": 16572,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.179992,
+        "lengdegrad": 8.038679,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Ålefjærveien ved Tretjønnveien",
+        "adresse": "Harald Gilles vei 19",
+        "postnummer": "4633",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2020-11-26T14:19:30Z"
+    },
+    {
+        "id": 16573,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.196998,
+        "lengdegrad": 8.031295,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Dalsveien vav. 4",
+        "adresse": "Dalsveien 16",
+        "postnummer": "4634",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2020-11-26T14:18:20Z"
+    },
+    {
+        "id": 16575,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.192633,
+        "lengdegrad": 8.079247,
+        "deaktivert": null,
+        "versjonsnummer": 4,
+        "navn": "Hamresanden mot sjøen",
+        "adresse": "Hamresandveien 9",
+        "postnummer": "4656",
+        "poststed": "HAMRESANDEN",
+        "aktiveringstidspunkt": "2022-04-26T11:18:46Z"
+    },
+    {
+        "id": 16577,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.164438,
+        "lengdegrad": 8.012914,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Presteheia v/ 91 - 93",
+        "adresse": "Presteheia 93",
+        "postnummer": "4633",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-14T08:39:31Z"
+    },
+    {
+        "id": 16578,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.164704,
+        "lengdegrad": 8.010487,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Presteheia v/ 104",
+        "adresse": "Presteheia 104",
+        "postnummer": "4633",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-14T08:43:44Z"
+    },
+    {
+        "id": 16579,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.177446,
+        "lengdegrad": 8.035737,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Sunnivasvei v/ 5",
+        "adresse": "Sunnivas vei 5A",
+        "postnummer": "4633",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-14T08:46:22Z"
+    },
+    {
+        "id": 32971,
+        "parkeringstilbyderNavn": "P-SERVICE AS",
+        "breddegrad": 59.819545,
+        "lengdegrad": 10.428996,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Coop Extra Borgen",
+        "adresse": "Borgenveien 120",
+        "postnummer": "1388",
+        "poststed": "BORGEN",
+        "aktiveringstidspunkt": "2020-11-18T14:26:00Z"
+    },
+    {
+        "id": 49357,
+        "parkeringstilbyderNavn": "SANDNES KOMMUNE",
+        "breddegrad": 58.864321,
+        "lengdegrad": 5.852932,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Furenes Aktivitssenter",
+        "adresse": null,
+        "postnummer": "4308",
+        "poststed": "SANDNES",
+        "aktiveringstidspunkt": "2022-02-23T12:49:05Z"
+    },
+    {
+        "id": 49358,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.150588,
+        "lengdegrad": 7.973979,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Ravnedalsveien",
+        "adresse": "Ravnedalsveien 7B",
+        "postnummer": "4616",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-02-23T13:01:27Z",
+        "parkingForTrucks": true,
+        "fuelStationForTrucks": true,
+        "openingTime": {
+            "monday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "09:00",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "10:00",
+                "close": "20:00"
+            }
+        },
+        "facility": {
+            "restaurant": true,
+            "toilet": true,
+            "shower": true
+        }
+    },
+    {
+        "id": 16592,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.076545,
+        "lengdegrad": 7.999519,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Kvitefjellveien ved rundkjøring Park & Ride",
+        "adresse": "Kvitefjellveien 4",
+        "postnummer": "4625",
+        "poststed": "FLEKKERØY",
+        "aktiveringstidspunkt": "2022-04-10T16:24:53Z"
+    },
+    {
+        "id": 16593,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.19365,
+        "lengdegrad": 8.083056,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Gorines Have",
+        "adresse": "Hamresandveien 38",
+        "postnummer": "4656",
+        "poststed": "HAMRESANDEN",
+        "aktiveringstidspunkt": "2022-04-26T11:15:40Z"
+    },
+    {
+        "id": 16594,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.081234,
+        "lengdegrad": 8.002715,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Skjærgårdsveien",
+        "adresse": "Skjærgårdsveien 83",
+        "postnummer": "4625",
+        "poststed": "FLEKKERØY",
+        "aktiveringstidspunkt": "2022-04-10T16:28:39Z"
+    },
+    {
+        "id": 32991,
+        "parkeringstilbyderNavn": "TRONDHEIM PARKERING AS",
+        "breddegrad": 63.413539,
+        "lengdegrad": 10.398354,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-01-12T07:12:05Z"
+        },
+        "versjonsnummer": 3,
+        "navn": "Holtermanns veg 1 (ute området)",
+        "adresse": "Holtermanns veg 11",
+        "postnummer": "7030",
+        "poststed": "TRONDHEIM",
+        "aktiveringstidspunkt": "2020-12-17T07:53:34Z"
+    },
+    {
+        "id": 225,
+        "parkeringstilbyderNavn": "PARKERINGSSELSKAPET AS",
+        "breddegrad": 59.266812,
+        "lengdegrad": 10.41021,
+        "deaktivert": null,
+        "versjonsnummer": 4,
+        "navn": "Øvre Langgate 28",
+        "adresse": "Øvre Langgate 28",
+        "postnummer": "3110",
+        "poststed": "TØNSBERG",
+        "aktiveringstidspunkt": "2022-03-08T09:56:28Z"
+    },
+    {
+        "id": 226,
+        "parkeringstilbyderNavn": "PARKERINGSSELSKAPET AS",
+        "breddegrad": 59.265945,
+        "lengdegrad": 10.40705,
+        "deaktivert": null,
+        "versjonsnummer": 9,
+        "navn": "Nedre Langgate 20 (Mediahuset)",
+        "adresse": "Nedre Langgate 18",
+        "postnummer": "3126",
+        "poststed": "TØNSBERG",
+        "aktiveringstidspunkt": "2022-07-08T12:04:05Z"
+    },
+    {
+        "id": 227,
+        "parkeringstilbyderNavn": "PARKERINGSSELSKAPET AS",
+        "breddegrad": 59.270344,
+        "lengdegrad": 10.406956,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2017-08-10T07:11:28Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Hertug Guthorms gate 1",
+        "adresse": "Tollbodgaten 14D",
+        "postnummer": "3111",
+        "poststed": "TØNSBERG",
+        "aktiveringstidspunkt": "2017-06-20T13:15:02Z"
+    },
+    {
+        "id": 16611,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.164366,
+        "lengdegrad": 8.012048,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Presteheia v/ 95-97",
+        "adresse": "Presteheia 95",
+        "postnummer": "4633",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-14T08:42:19Z"
+    },
+    {
+        "id": 228,
+        "parkeringstilbyderNavn": "PARKERINGSSELSKAPET AS",
+        "breddegrad": 59.266007,
+        "lengdegrad": 10.410656,
+        "deaktivert": null,
+        "versjonsnummer": 5,
+        "navn": "Storgaten 17 (Maritim Hotell)",
+        "adresse": "Storgaten 17",
+        "postnummer": "3126",
+        "poststed": "TØNSBERG",
+        "aktiveringstidspunkt": "2022-03-08T09:55:28Z"
+    },
+    {
+        "id": 229,
+        "parkeringstilbyderNavn": "PARKERINGSSELSKAPET AS",
+        "breddegrad": 59.267585,
+        "lengdegrad": 10.405144,
+        "deaktivert": null,
+        "versjonsnummer": 6,
+        "navn": "Skipsgateplassen",
+        "adresse": "Nedre Langgate 43",
+        "postnummer": "3126",
+        "poststed": "TØNSBERG",
+        "aktiveringstidspunkt": "2022-07-08T12:02:59Z"
+    },
+    {
+        "id": 230,
+        "parkeringstilbyderNavn": "PARKERINGSSELSKAPET AS",
+        "breddegrad": 59.264808,
+        "lengdegrad": 10.408726,
+        "deaktivert": null,
+        "versjonsnummer": 6,
+        "navn": "Ollebukta 2",
+        "adresse": "Ollebukta 2",
+        "postnummer": "3126",
+        "poststed": "TØNSBERG",
+        "aktiveringstidspunkt": "2022-03-08T09:58:20Z"
+    },
+    {
+        "id": 242,
+        "parkeringstilbyderNavn": "PARKERINGSSELSKAPET AS",
+        "breddegrad": 59.264127,
+        "lengdegrad": 10.414214,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-01-25T15:21:56Z"
+        },
+        "versjonsnummer": 5,
+        "navn": "Storgaten 2B",
+        "adresse": "Storgaten 2B",
+        "postnummer": "3126",
+        "poststed": "TØNSBERG",
+        "aktiveringstidspunkt": "2020-03-12T09:25:24Z"
+    },
+    {
+        "id": 243,
+        "parkeringstilbyderNavn": "PARKERINGSSELSKAPET AS",
+        "breddegrad": 59.266418,
+        "lengdegrad": 10.41354,
+        "deaktivert": null,
+        "versjonsnummer": 5,
+        "navn": "St. Olavs gate 4 (Mindegården)",
+        "adresse": "St Olavs gate 4",
+        "postnummer": "3126",
+        "poststed": "TØNSBERG",
+        "aktiveringstidspunkt": "2022-03-08T09:54:35Z"
+    },
+    {
+        "id": 33011,
+        "parkeringstilbyderNavn": "BODØ KOMMUNE",
+        "breddegrad": 67.280436,
+        "lengdegrad": 14.376646,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Fylkeshuset i Bodø",
+        "adresse": "Prinsens gate 100",
+        "postnummer": "8005",
+        "poststed": "BODØ",
+        "aktiveringstidspunkt": "2021-11-03T08:23:52Z"
+    },
+    {
+        "id": 244,
+        "parkeringstilbyderNavn": "PARKERINGSSELSKAPET AS",
+        "breddegrad": 59.273436,
+        "lengdegrad": 10.421242,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2019-09-03T12:02:52Z"
+        },
+        "versjonsnummer": 8,
+        "navn": "Halfdan Wilhelmsens alle 23",
+        "adresse": "Halfdan Wilhelmsens alle 23A",
+        "postnummer": "3117",
+        "poststed": "TØNSBERG",
+        "aktiveringstidspunkt": "2019-02-25T13:50:38Z"
+    },
+    {
+        "id": 1341,
+        "parkeringstilbyderNavn": "KONGSBERG KOMMUNE",
+        "breddegrad": 59.668645,
+        "lengdegrad": 9.642506,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2019-09-11T07:25:29Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Vestsiden Ungdomsskole",
+        "adresse": "Boecks gate 7",
+        "postnummer": "3616",
+        "poststed": "KONGSBERG",
+        "aktiveringstidspunkt": "2016-12-30T08:54:27Z"
+    },
+    {
+        "id": 1342,
+        "parkeringstilbyderNavn": "KONGSBERG KOMMUNE",
+        "breddegrad": 59.663277,
+        "lengdegrad": 9.643893,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-01-18T07:06:27Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Bussedalen",
+        "adresse": "Bussedalen 9",
+        "postnummer": "3616",
+        "poststed": "KONGSBERG",
+        "aktiveringstidspunkt": "2016-12-30T08:56:27Z"
+    },
+    {
+        "id": 1343,
+        "parkeringstilbyderNavn": "KONGSBERG KOMMUNE",
+        "breddegrad": 59.665103,
+        "lengdegrad": 9.647031,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2018-12-18T12:15:27Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Chr. IV des gate",
+        "adresse": "Christian IV. des gate 1",
+        "postnummer": "3616",
+        "poststed": "KONGSBERG",
+        "aktiveringstidspunkt": "2016-12-30T08:58:06Z"
+    },
+    {
+        "id": 1484,
+        "parkeringstilbyderNavn": "OSLO UNIVERSITETSSYKEHUS HF",
+        "breddegrad": 59.938223,
+        "lengdegrad": 10.790469,
+        "deaktivert": null,
+        "versjonsnummer": 4,
+        "navn": "OUS Aker sykehus",
+        "adresse": "Trondheimsveien 235",
+        "postnummer": "0586",
+        "poststed": "OSLO",
+        "aktiveringstidspunkt": "2022-06-07T12:00:00Z"
+    },
+    {
+        "id": 1485,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.43354,
+        "lengdegrad": 10.661265,
+        "deaktivert": null,
+        "versjonsnummer": 4,
+        "navn": "Meieritomta",
+        "adresse": "Kirkegata 18",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-11-30T23:00:00Z"
+    },
+    {
+        "id": 1486,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.435279,
+        "lengdegrad": 10.659722,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Dronningensgate",
+        "adresse": "Dronningens gate 27",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1487,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.4347,
+        "lengdegrad": 10.656632,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Storgata",
+        "adresse": "Storgata 7E",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 17871,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.18503,
+        "lengdegrad": 8.099887,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Feltspatveien v/80",
+        "adresse": "Feltspatveien 21",
+        "postnummer": "4656",
+        "poststed": "HAMRESANDEN",
+        "aktiveringstidspunkt": "2022-04-29T06:50:28Z"
+    },
+    {
+        "id": 50639,
+        "parkeringstilbyderNavn": "VESTPARK AS",
+        "breddegrad": 59.926529,
+        "lengdegrad": 10.67822,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "HOVFARET 13",
+        "adresse": "Hovfaret 13",
+        "postnummer": "0275",
+        "poststed": "OSLO",
+        "aktiveringstidspunkt": "2022-03-30T08:57:41Z"
+    },
+    {
+        "id": 50640,
+        "parkeringstilbyderNavn": "TRONDHEIM PARKERING AS",
+        "breddegrad": 63.352501,
+        "lengdegrad": 10.358714,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Industriveien 7/Banemester Esps veg",
+        "adresse": "Industrivegen 7/Banemester Esps veg",
+        "postnummer": "7080",
+        "poststed": "HEIMDAL",
+        "aktiveringstidspunkt": "2022-03-31T08:54:54Z"
+    },
+    {
+        "id": 1489,
+        "parkeringstilbyderNavn": "SKI KOMMUNE ADMINISTRASJON",
+        "breddegrad": 59.717915,
+        "lengdegrad": 10.832755,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-05-12T07:41:18Z"
+        },
+        "versjonsnummer": 3,
+        "navn": "Vestveien",
+        "adresse": "Vestveien",
+        "postnummer": "1400",
+        "poststed": "SKI",
+        "aktiveringstidspunkt": "2018-03-24T08:43:29Z"
+    },
+    {
+        "id": 50641,
+        "parkeringstilbyderNavn": "PARK NORDIC AS",
+        "breddegrad": 69.649286,
+        "lengdegrad": 18.95384,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Sentrum Terrasse P-hus",
+        "adresse": "Grønnegata 64",
+        "postnummer": "9008",
+        "poststed": "TROMSØ",
+        "aktiveringstidspunkt": "2022-03-31T09:45:53Z"
+    },
+    {
+        "id": 1490,
+        "parkeringstilbyderNavn": "SKI KOMMUNE ADMINISTRASJON",
+        "breddegrad": 59.716822,
+        "lengdegrad": 10.836348,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-05-12T07:41:18Z"
+        },
+        "versjonsnummer": 3,
+        "navn": "Jernbaneplassen",
+        "adresse": "Jernbanesvingen 6",
+        "postnummer": "1400",
+        "poststed": "SKI",
+        "aktiveringstidspunkt": "2018-02-28T21:03:42Z"
+    },
+    {
+        "id": 1491,
+        "parkeringstilbyderNavn": "PARKERINGSSELSKAPET AS",
+        "breddegrad": 59.2777,
+        "lengdegrad": 10.402325,
+        "deaktivert": null,
+        "versjonsnummer": 4,
+        "navn": "Kjelleveien 23",
+        "adresse": "Kjelleveien 23",
+        "postnummer": "3125",
+        "poststed": "TØNSBERG",
+        "aktiveringstidspunkt": "2020-05-20T08:00:38Z"
+    },
+    {
+        "id": 50643,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.200885,
+        "lengdegrad": 8.040536,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Skinnerheia vav 19",
+        "adresse": "Skinnerheia 19",
+        "postnummer": "4634",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-06T17:21:39Z"
+    },
+    {
+        "id": 1492,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.435413,
+        "lengdegrad": 10.666081,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Svaebakken",
+        "adresse": "Svaebakken 3A",
+        "postnummer": "1532",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1493,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.433451,
+        "lengdegrad": 10.667348,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Statens hus",
+        "adresse": "Løkkegata 14",
+        "postnummer": "1532",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1494,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.434362,
+        "lengdegrad": 10.661486,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Kirketorget",
+        "adresse": "Kirkegata 10",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1495,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.436763,
+        "lengdegrad": 10.671256,
+        "deaktivert": null,
+        "versjonsnummer": 4,
+        "navn": "Myra",
+        "adresse": "Nedre Bjerget 22",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-11-30T23:00:00Z"
+    },
+    {
+        "id": 1496,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.431974,
+        "lengdegrad": 10.65425,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "KA FRU TO",
+        "adresse": "Stengata 2",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-11-30T23:00:00Z"
+    },
+    {
+        "id": 1497,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.434947,
+        "lengdegrad": 10.651533,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2018-08-28T10:33:52Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Alphabrygga",
+        "adresse": "Værftsgata 5",
+        "postnummer": "1511",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1498,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.430567,
+        "lengdegrad": 10.646492,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Fiske",
+        "adresse": "Fjordgløtt 2",
+        "postnummer": "1516",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1499,
+        "parkeringstilbyderNavn": "ANONYMISERT",
+        "breddegrad": 69.22845,
+        "lengdegrad": 17.988679,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2021-06-29T09:04:56Z"
+        },
+        "versjonsnummer": 1,
+        "navn": "A04-24 Austadområdet",
+        "adresse": "Sjøgata 3-5",
+        "postnummer": "9300",
+        "poststed": "FINNSNES",
+        "aktiveringstidspunkt": "2017-01-06T14:53:04Z",
+        "parkingForTrucks": true,
+        "fuelStationForTrucks": true,
+        "openingTime": {
+            "monday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "09:00",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "10:00",
+                "close": "20:00"
+            }
+        },
+        "facility": {
+            "restaurant": true,
+            "toilet": true,
+            "shower": true
+        }
+    },
+    {
+        "id": 1501,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.436183,
+        "lengdegrad": 10.6691,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Prins Christian August plass",
+        "adresse": "Wulfsbergs gate 9",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1502,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.437374,
+        "lengdegrad": 10.666367,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Gudesgate",
+        "adresse": "Gudes gate 1C",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2020-09-30T13:05:08Z"
+    },
+    {
+        "id": 1503,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.435115,
+        "lengdegrad": 10.667298,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Gregersgate",
+        "adresse": "Kongens gate 25D",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1504,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.446258,
+        "lengdegrad": 10.695388,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2019-04-08T10:03:57Z"
+        },
+        "versjonsnummer": 5,
+        "navn": "Peer Gynt Sykehjem N",
+        "adresse": "Peer Gynts vei 86",
+        "postnummer": "1535",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2018-11-15T12:00:59Z"
+    },
+    {
+        "id": 1506,
+        "parkeringstilbyderNavn": "SKI KOMMUNE ADMINISTRASJON",
+        "breddegrad": 59.717909,
+        "lengdegrad": 10.831772,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-05-12T07:41:18Z"
+        },
+        "versjonsnummer": 3,
+        "navn": "Ski nye kirke",
+        "adresse": "Bjerkelundveien 17",
+        "postnummer": "1400",
+        "poststed": "SKI",
+        "aktiveringstidspunkt": "2018-02-28T20:59:28Z"
+    },
+    {
+        "id": 1508,
+        "parkeringstilbyderNavn": "SKI KOMMUNE ADMINISTRASJON",
+        "breddegrad": 59.719094,
+        "lengdegrad": 10.836046,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2019-08-07T07:49:32Z"
+        },
+        "versjonsnummer": 3,
+        "navn": "Jernbaneveien 6",
+        "adresse": "Jernbaneveien 6A",
+        "postnummer": "1400",
+        "poststed": "SKI",
+        "aktiveringstidspunkt": "2018-02-28T21:02:39Z"
+    },
+    {
+        "id": 50660,
+        "parkeringstilbyderNavn": "TRONDHEIM PARKERING AS",
+        "breddegrad": 63.444239,
+        "lengdegrad": 10.437342,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Ladebekken 50, Dora AS",
+        "adresse": "Ladebekken 50",
+        "postnummer": "7066",
+        "poststed": "TRONDHEIM",
+        "aktiveringstidspunkt": "2022-03-31T11:37:57Z"
+    },
+    {
+        "id": 1509,
+        "parkeringstilbyderNavn": "SKI KOMMUNE ADMINISTRASJON",
+        "breddegrad": 59.721387,
+        "lengdegrad": 10.837803,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-05-12T07:41:18Z"
+        },
+        "versjonsnummer": 4,
+        "navn": "Vestråt",
+        "adresse": "Kirkeveien 10B",
+        "postnummer": "1400",
+        "poststed": "SKI",
+        "aktiveringstidspunkt": "2018-02-28T20:57:30Z"
+    },
+    {
+        "id": 1510,
+        "parkeringstilbyderNavn": "SKI KOMMUNE ADMINISTRASJON",
+        "breddegrad": 59.720872,
+        "lengdegrad": 10.838199,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-05-12T07:41:18Z"
+        },
+        "versjonsnummer": 3,
+        "navn": "Eldresenteret",
+        "adresse": "Kirkeveien 9",
+        "postnummer": "1400",
+        "poststed": "SKI",
+        "aktiveringstidspunkt": "2018-02-28T21:05:46Z"
+    },
+    {
+        "id": 1511,
+        "parkeringstilbyderNavn": "SKI KOMMUNE ADMINISTRASJON",
+        "breddegrad": 59.720507,
+        "lengdegrad": 10.84012,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-05-12T07:41:18Z"
+        },
+        "versjonsnummer": 4,
+        "navn": "Rådhuset",
+        "adresse": "Rådhussvingen 7",
+        "postnummer": "1400",
+        "poststed": "SKI",
+        "aktiveringstidspunkt": "2019-02-19T09:27:37Z"
+    },
+    {
+        "id": 1512,
+        "parkeringstilbyderNavn": "SKI KOMMUNE ADMINISTRASJON",
+        "breddegrad": 59.719329,
+        "lengdegrad": 10.838532,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-05-12T07:41:18Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Torget",
+        "adresse": "Torgveien 4A",
+        "postnummer": "1400",
+        "poststed": "SKI",
+        "aktiveringstidspunkt": "2018-02-28T21:08:51Z"
+    },
+    {
+        "id": 1513,
+        "parkeringstilbyderNavn": "SKI KOMMUNE ADMINISTRASJON",
+        "breddegrad": 59.719276,
+        "lengdegrad": 10.85071,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-05-12T07:41:18Z"
+        },
+        "versjonsnummer": 1,
+        "navn": "Ski stadion",
+        "adresse": "Sandertunet 123",
+        "postnummer": "1400",
+        "poststed": "SKI",
+        "aktiveringstidspunkt": "2017-01-06T10:29:49Z"
+    },
+    {
+        "id": 1515,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.445853,
+        "lengdegrad": 10.695205,
+        "deaktivert": null,
+        "versjonsnummer": 4,
+        "navn": "Peer Gynt sykehjem S",
+        "adresse": "Peer Gynts vei 86",
+        "postnummer": "1535",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2018-04-18T11:16:36Z"
+    },
+    {
+        "id": 1516,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.435041,
+        "lengdegrad": 10.659543,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Rådhusgata",
+        "adresse": "Dronningens gate 30",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1517,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.436715,
+        "lengdegrad": 10.666428,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2017-06-26T08:52:31Z"
+        },
+        "versjonsnummer": 1,
+        "navn": "Torggata",
+        "adresse": "Dronningens gate 1",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-01-06T12:32:44Z"
+    },
+    {
+        "id": 1518,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.435592,
+        "lengdegrad": 10.657861,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Fleischergate",
+        "adresse": "Storgata 16",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1519,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.434086,
+        "lengdegrad": 10.654166,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Jeløgata",
+        "adresse": "Jeløgata 6",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1520,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.434869,
+        "lengdegrad": 10.66437,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Skoggata 24",
+        "adresse": "Skoggata 24",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2018-11-15T11:50:51Z"
+    },
+    {
+        "id": 1521,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.437472,
+        "lengdegrad": 10.667896,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2019-04-08T10:05:37Z"
+        },
+        "versjonsnummer": 3,
+        "navn": "Pia",
+        "adresse": "Møllergata 1",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-09-05T08:00:00Z"
+    },
+    {
+        "id": 1522,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.438446,
+        "lengdegrad": 10.666054,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2019-11-04T14:15:53Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Møllebyen",
+        "adresse": "Henrich Gerners gate 10B",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1523,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.433953,
+        "lengdegrad": 10.66134,
+        "deaktivert": null,
+        "versjonsnummer": 5,
+        "navn": "Kirkegata 14",
+        "adresse": "Kirkegata 14",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2018-04-18T10:50:58Z"
+    },
+    {
+        "id": 34291,
+        "parkeringstilbyderNavn": "STORD KOMMUNE",
+        "breddegrad": 59.779506,
+        "lengdegrad": 5.497242,
+        "deaktivert": null,
+        "versjonsnummer": 5,
+        "navn": "Bandadalsplassen ved NAV",
+        "adresse": "Bandadalsplassen",
+        "postnummer": "5417",
+        "poststed": "STORD",
+        "aktiveringstidspunkt": "2020-12-17T13:36:06Z"
+    },
+    {
+        "id": 1524,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.430993,
+        "lengdegrad": 10.654972,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Værlekaia",
+        "adresse": "Strandgata 27",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1525,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.433104,
+        "lengdegrad": 10.655868,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2017-06-26T08:41:11Z"
+        },
+        "versjonsnummer": 1,
+        "navn": "Jernbanegata",
+        "adresse": "Thorneløkkveien 5",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-01-06T13:19:45Z"
+    },
+    {
+        "id": 1526,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.431617,
+        "lengdegrad": 10.658546,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2018-04-18T10:27:28Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "NSB",
+        "adresse": "Værlegata 25",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1527,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.433235,
+        "lengdegrad": 10.655151,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Værlesands bakgate",
+        "adresse": "Stengata 17",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 50680,
+        "parkeringstilbyderNavn": "APCOA PARKING NORWAY AS",
+        "breddegrad": 69.646272,
+        "lengdegrad": 18.95364,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2022-04-29T06:23:40Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Nerstranda kjøpesenter",
+        "adresse": "Strandgata 9",
+        "postnummer": "9008",
+        "poststed": "TROMSØ",
+        "aktiveringstidspunkt": "2022-04-27T10:09:39Z"
+    },
+    {
+        "id": 50681,
+        "parkeringstilbyderNavn": "APCOA PARKING NORWAY AS",
+        "breddegrad": 59.807298,
+        "lengdegrad": 10.486113,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Arnestadveien 2A",
+        "adresse": "Arnestadveien 2A",
+        "postnummer": "1390",
+        "poststed": "VOLLEN",
+        "aktiveringstidspunkt": "2022-04-01T06:33:13Z"
+    },
+    {
+        "id": 1530,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.432886,
+        "lengdegrad": 10.651646,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Logns plass",
+        "adresse": "Logns plass 3A",
+        "postnummer": "1516",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-11-30T23:00:00Z"
+    },
+    {
+        "id": 50682,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.196951,
+        "lengdegrad": 8.031733,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Dalsveien vav 4",
+        "adresse": "Dalsveien 4",
+        "postnummer": "4634",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-04-01T11:32:55Z"
+    },
+    {
+        "id": 1531,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.432342,
+        "lengdegrad": 10.661185,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2018-05-22T07:11:32Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Fjordveien",
+        "adresse": "Fjordveien 14",
+        "postnummer": "1532",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1532,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.432913,
+        "lengdegrad": 10.659944,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Værlegata øvre",
+        "adresse": "Værlegata 11",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1533,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.430856,
+        "lengdegrad": 10.659262,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2018-11-15T11:54:36Z"
+        },
+        "versjonsnummer": 3,
+        "navn": "Værlegata N",
+        "adresse": "Værlegata 28",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2018-11-15T11:54:05Z"
+    },
+    {
+        "id": 1534,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.432125,
+        "lengdegrad": 10.657541,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Jernbanegata - Stasjon",
+        "adresse": "Haveveien 4",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2018-04-18T10:29:42Z"
+    },
+    {
+        "id": 1535,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.432036,
+        "lengdegrad": 10.658609,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2019-04-08T10:08:21Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Jernbanegate - Nyquist gate",
+        "adresse": "Jernbanegata 5",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-26T22:00:00Z"
+    },
+    {
+        "id": 1536,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.432065,
+        "lengdegrad": 10.659843,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2019-04-08T10:09:29Z"
+        },
+        "versjonsnummer": 1,
+        "navn": "Nyquist gate",
+        "adresse": "Nyquists gate 1",
+        "postnummer": "1532",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-01-09T09:12:29Z"
+    },
+    {
+        "id": 1537,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.433367,
+        "lengdegrad": 10.664661,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Bytårnet skole",
+        "adresse": "Skolegata 2",
+        "postnummer": "1532",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-01-09T09:18:40Z"
+    },
+    {
+        "id": 1538,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.430636,
+        "lengdegrad": 10.663003,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Høienhallgata",
+        "adresse": "Markveien 19",
+        "postnummer": "1532",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-01-09T09:21:15Z"
+    },
+    {
+        "id": 1539,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.433427,
+        "lengdegrad": 10.664666,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Skolegata",
+        "adresse": "Skolegata 2",
+        "postnummer": "1532",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-01-09T09:23:51Z"
+    },
+    {
+        "id": 1540,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.432441,
+        "lengdegrad": 10.664161,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Byfogd Sandbergsgate",
+        "adresse": "Byfogd Sandbergs gate 7N",
+        "postnummer": "1532",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-01-09T09:25:49Z"
+    },
+    {
+        "id": 1541,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.429986,
+        "lengdegrad": 10.659386,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2019-04-08T10:08:48Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Værlegata S",
+        "adresse": "Værlegata 34",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 1542,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.436481,
+        "lengdegrad": 10.674048,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Mossehallen",
+        "adresse": "Myra 1",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2018-04-18T10:55:11Z"
+    },
+    {
+        "id": 1543,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.435528,
+        "lengdegrad": 10.667111,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Kongensgate",
+        "adresse": "Kongens gate 21",
+        "postnummer": "1530",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-30T22:00:00Z"
+    },
+    {
+        "id": 34311,
+        "parkeringstilbyderNavn": "STORD KOMMUNE",
+        "breddegrad": 59.779467,
+        "lengdegrad": 5.497288,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Vikabrekko ved Backertunet",
+        "adresse": "Vikabrekko",
+        "postnummer": "5411",
+        "poststed": "STORD",
+        "aktiveringstidspunkt": "2020-12-17T13:55:06Z",
+        "parkingForTrucks": true,
+        "fuelStationForTrucks": false,
+        "openingTime": {
+            "monday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "09:00",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "10:00",
+                "close": "20:00"
+            }
+        },
+        "facility": {
+            "restaurant": true,
+            "toilet": true,
+            "shower": true
+        }
+    },
+    {
+        "id": 1544,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.432315,
+        "lengdegrad": 10.658234,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Haveveien",
+        "adresse": "Haveveien 2",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-01-09T09:14:20Z"
+    },
+    {
+        "id": 1545,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.432924,
+        "lengdegrad": 10.65832,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Thorneløkkeveien",
+        "adresse": "Thorneløkkveien 13",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-01-09T09:16:18Z"
+    },
+    {
+        "id": 1546,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.43334,
+        "lengdegrad": 10.654378,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Sykehusgata",
+        "adresse": "Stengata 20",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-01-09T09:27:34Z"
+    },
+    {
+        "id": 17931,
+        "parkeringstilbyderNavn": "APCOA PARKING NORWAY AS",
+        "breddegrad": 60.19091,
+        "lengdegrad": 12.003692,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Høyskolen i Kongsvinger",
+        "adresse": "Strandvegen 2",
+        "postnummer": "2212",
+        "poststed": "KONGSVINGER",
+        "aktiveringstidspunkt": "2022-02-01T16:54:17Z"
+    },
+    {
+        "id": 1548,
+        "parkeringstilbyderNavn": "P-NORGE AS",
+        "breddegrad": 59.420662,
+        "lengdegrad": 10.673362,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2018-10-24T12:23:23Z"
+        },
+        "versjonsnummer": 3,
+        "navn": "P-Norge AS",
+        "adresse": "Rabekkgata 5",
+        "postnummer": "1523",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-06-29T11:28:54Z"
+    },
+    {
+        "id": 50700,
+        "parkeringstilbyderNavn": "LØRENSKOG KOMMUNE TEKNISK SEKTOR",
+        "breddegrad": 59.917366,
+        "lengdegrad": 10.957868,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Bjarne Haugens gate 2 - 10",
+        "adresse": "Bjarne Haugens gate 1",
+        "postnummer": "1475",
+        "poststed": "FINSTADJORDET",
+        "aktiveringstidspunkt": "2022-04-03T11:47:27Z"
+    },
+    {
+        "id": 1553,
+        "parkeringstilbyderNavn": "AKERSHUS UNIVERSITETSSYKEHUS HF",
+        "breddegrad": 59.933252,
+        "lengdegrad": 10.995731,
+        "deaktivert": null,
+        "versjonsnummer": 4,
+        "navn": "Nye Hovedinngang",
+        "adresse": "Sykehusveien 25",
+        "postnummer": "1474",
+        "poststed": "NORDBYHAGEN",
+        "aktiveringstidspunkt": "2019-10-14T16:00:00Z"
+    },
+    {
+        "id": 1554,
+        "parkeringstilbyderNavn": "AKERSHUS UNIVERSITETSSYKEHUS HF",
+        "breddegrad": 59.930464,
+        "lengdegrad": 10.993741,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Barnesenteret",
+        "adresse": "Nordbyhagaveien 34",
+        "postnummer": "1474",
+        "poststed": "NORDBYHAGEN",
+        "aktiveringstidspunkt": "2017-06-23T08:33:19Z"
+    },
+    {
+        "id": 1555,
+        "parkeringstilbyderNavn": "AKERSHUS UNIVERSITETSSYKEHUS HF",
+        "breddegrad": 59.930687,
+        "lengdegrad": 10.997506,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Kongen",
+        "adresse": "Sykehusveien 55",
+        "postnummer": "1474",
+        "poststed": "NORDBYHAGEN",
+        "aktiveringstidspunkt": "2020-11-06T23:01:00Z"
+    },
+    {
+        "id": 1556,
+        "parkeringstilbyderNavn": "AKERSHUS UNIVERSITETSSYKEHUS HF",
+        "breddegrad": 59.934696,
+        "lengdegrad": 10.993798,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Nevro.Rehab.",
+        "adresse": "Nordbyringen 2",
+        "postnummer": "1474",
+        "poststed": "NORDBYHAGEN",
+        "aktiveringstidspunkt": "2017-06-23T08:31:05Z"
+    },
+    {
+        "id": 1561,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.432573,
+        "lengdegrad": 10.65401,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Smedgata",
+        "adresse": "Østre Kanalgate 3",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2017-01-09T09:29:41Z"
+    },
+    {
+        "id": 1562,
+        "parkeringstilbyderNavn": "MOSS KOMMUNE SENTRALADMINISTRASJON",
+        "breddegrad": 59.434671,
+        "lengdegrad": 10.659508,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2019-05-22T08:39:47Z"
+        },
+        "versjonsnummer": 3,
+        "navn": "Rådhuset Nord",
+        "adresse": "Kirkegata 13",
+        "postnummer": "1531",
+        "poststed": "MOSS",
+        "aktiveringstidspunkt": "2018-04-18T10:53:45Z"
+    },
+    {
+        "id": 1563,
+        "parkeringstilbyderNavn": "EIGERSUND PARKERING KF",
+        "breddegrad": 58.448482,
+        "lengdegrad": 5.991728,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2017-06-29T09:58:28Z"
+        },
+        "versjonsnummer": 1,
+        "navn": "Totalt Eigersund",
+        "adresse": "Strandgaten",
+        "postnummer": "4370",
+        "poststed": "EGERSUND",
+        "aktiveringstidspunkt": "2017-01-09T10:04:17Z"
+    },
+    {
+        "id": 34331,
+        "parkeringstilbyderNavn": "STORD KOMMUNE",
+        "breddegrad": 59.782263,
+        "lengdegrad": 5.497649,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Lønningsåsen ved Rehab - senteret",
+        "adresse": "Lønningsåsen",
+        "postnummer": "5417",
+        "poststed": "STORD",
+        "aktiveringstidspunkt": "2020-12-17T13:54:00Z"
+    },
+    {
+        "id": 1564,
+        "parkeringstilbyderNavn": "GRIMSTAD KOMMUNE",
+        "breddegrad": 58.32628,
+        "lengdegrad": 7.947806,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2017-06-08T07:33:30Z"
+        },
+        "versjonsnummer": 4,
+        "navn": "Grimstad, 4890",
+        "adresse": "Smith Petersens gate",
+        "postnummer": "4878",
+        "poststed": "GRIMSTAD",
+        "aktiveringstidspunkt": "2017-06-02T10:54:03Z"
+    },
+    {
+        "id": 1566,
+        "parkeringstilbyderNavn": "PARK NORDIC AS",
+        "breddegrad": 59.933036,
+        "lengdegrad": 10.769457,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Vossegata 34, Oslo",
+        "adresse": "Vossegata 34A",
+        "postnummer": "0475",
+        "poststed": "OSLO",
+        "aktiveringstidspunkt": "2018-01-05T17:24:08Z"
+    },
+    {
+        "id": 17951,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.111974,
+        "lengdegrad": 7.953502,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Holskogveien/Vågsbygdveien",
+        "adresse": "Holskogveien 12",
+        "postnummer": "4624",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2019-12-31T23:00:00Z"
+    },
+    {
+        "id": 17952,
+        "parkeringstilbyderNavn": "KRISTIANSAND KOMMUNE",
+        "breddegrad": 58.123707,
+        "lengdegrad": 7.933586,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Hyllelia vav/23",
+        "adresse": "Hyllelia 23B",
+        "postnummer": "4622",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2022-05-04T09:40:51Z"
+    },
+    {
+        "id": 50720,
+        "parkeringstilbyderNavn": "NARVIK KOMMUNE",
+        "breddegrad": 68.415894,
+        "lengdegrad": 17.430413,
+        "deaktivert": null,
+        "versjonsnummer": 1,
+        "navn": "Fagernesparken",
+        "adresse": "Fagernesveien",
+        "postnummer": "8514",
+        "poststed": "NARVIK",
+        "aktiveringstidspunkt": "2022-04-04T08:23:13Z"
+    },
+    {
+        "id": 1581,
+        "parkeringstilbyderNavn": "AKERSHUS UNIVERSITETSSYKEHUS HF",
+        "breddegrad": 59.932575,
+        "lengdegrad": 10.997896,
+        "deaktivert": null,
+        "versjonsnummer": 4,
+        "navn": "Nye Nord",
+        "adresse": "Sykehusveien 27",
+        "postnummer": "1474",
+        "poststed": "NORDBYHAGEN",
+        "aktiveringstidspunkt": "2021-11-11T10:07:17Z"
+    },
+    {
+        "id": 1582,
+        "parkeringstilbyderNavn": "AKERSHUS UNIVERSITETSSYKEHUS HF",
+        "breddegrad": 59.933206,
+        "lengdegrad": 10.988542,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "P-hus Besøksplan",
+        "adresse": "Sykehusveien 20",
+        "postnummer": "1474",
+        "poststed": "NORDBYHAGEN",
+        "aktiveringstidspunkt": "2018-05-30T10:25:54Z"
+    },
+    {
+        "id": 4157,
+        "parkeringstilbyderNavn": "PARKERINGSSELSKAPET AS",
+        "breddegrad": 59.051427,
+        "lengdegrad": 10.017662,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2021-01-04T07:25:22Z"
+        },
+        "versjonsnummer": 3,
+        "navn": "Verksgård",
+        "adresse": "Nedre Fritzøegate 2",
+        "postnummer": "3264",
+        "poststed": "LARVIK",
+        "aktiveringstidspunkt": "2018-03-06T14:09:45Z"
+    },
+    {
+        "id": 4158,
+        "parkeringstilbyderNavn": "KRISTIANSUND PARKERING AS",
+        "breddegrad": 63.109426,
+        "lengdegrad": 7.731693,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2021-01-13T17:25:59Z"
+        },
+        "versjonsnummer": 2,
+        "navn": "Amfi Storkaia Brygge P-Hus",
+        "adresse": "Storgata 15",
+        "postnummer": "6509",
+        "poststed": "KRISTIANSUND N",
+        "aktiveringstidspunkt": "2018-01-12T08:45:50Z"
+    },
+    {
+        "id": 4160,
+        "parkeringstilbyderNavn": "KRISTIANSUND PARKERING AS",
+        "breddegrad": 63.111757,
+        "lengdegrad": 7.730396,
+        "deaktivert": null,
+        "versjonsnummer": 2,
+        "navn": "Automatene 6514-6515-6516",
+        "adresse": "Hauggata , Skolegata, Nedre Enggate",
+        "postnummer": "6509",
+        "poststed": "KRISTIANSUND N",
+        "aktiveringstidspunkt": "2018-01-12T08:36:43Z"
+    },
+    {
+        "id": 4162,
+        "parkeringstilbyderNavn": "AIMO PARK NORWAY AS",
+        "breddegrad": 59.904707,
+        "lengdegrad": 10.78566,
+        "deaktivert": null,
+        "versjonsnummer": 19,
+        "navn": "Kværnerbyen Næringspark",
+        "adresse": "Turbinveien 2",
+        "postnummer": "0195",
+        "poststed": "OSLO",
+        "aktiveringstidspunkt": "2022-07-20T09:26:09Z"
+    },
+    {
+        "id": 4163,
+        "parkeringstilbyderNavn": "AIMO PARK NORWAY AS",
+        "breddegrad": 59.927183,
+        "lengdegrad": 10.766856,
+        "deaktivert": null,
+        "versjonsnummer": 9,
+        "navn": "Københavngata P-hus",
+        "adresse": "Københavngata 10",
+        "postnummer": "0566",
+        "poststed": "OSLO",
+        "aktiveringstidspunkt": "2022-07-25T12:48:23Z"
+    },
+    {
+        "id": 36931,
+        "parkeringstilbyderNavn": "PARK NORDIC AS",
+        "breddegrad": 60.008557,
+        "lengdegrad": 11.042632,
+        "deaktivert": null,
+        "versjonsnummer": 3,
+        "navn": "Industriveien 11 B",
+        "adresse": "Industriveien 11B",
+        "postnummer": "2020",
+        "poststed": "SKEDSMOKORSET",
+        "aktiveringstidspunkt": "2022-03-21T16:20:00Z"
+    },
+    {
+        "id": 4164,
+        "parkeringstilbyderNavn": "AIMO PARK NORWAY AS",
+        "breddegrad": 58.146145,
+        "lengdegrad": 7.990189,
+        "deaktivert": null,
+        "versjonsnummer": 7,
+        "navn": "Vestre Torv P-hus",
+        "adresse": "Henrik Wergelands gate 4",
+        "postnummer": "4612",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2021-01-14T10:57:10Z"
+    },
+    {
+        "id": 4165,
+        "parkeringstilbyderNavn": "AIMO PARK NORWAY AS",
+        "breddegrad": 59.874924,
+        "lengdegrad": 10.810967,
+        "deaktivert": {
+            "deaktivertTidspunkt": "2021-01-29T12:24:24Z"
+        },
+        "versjonsnummer": 7,
+        "navn": "Lambertseter Senter P-hus",
+        "adresse": "Cecilie Thoresens vei 17",
+        "postnummer": "1153",
+        "poststed": "OSLO",
+        "aktiveringstidspunkt": "2020-05-11T08:48:33Z"
+    },
+    {
+        "id": 4166,
+        "parkeringstilbyderNavn": "AIMO PARK NORWAY AS",
+        "breddegrad": 58.14766,
+        "lengdegrad": 8.004287,
+        "deaktivert": null,
+        "versjonsnummer": 4,
+        "navn": "Kasernen Parkering",
+        "adresse": "Kongens gate 74",
+        "postnummer": "4608",
+        "poststed": "KRISTIANSAND S",
+        "aktiveringstidspunkt": "2021-01-13T08:07:22Z",
+        "parkingForTrucks": true,
+        "fuelStationForTrucks": true,
+        "openingTime": {
+            "monday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "08:00",
+                "close": "23:00"
+            },
+            "saturday": {
+                "open": "09:00",
+                "close": "22:00"
+            },
+            "sunday": {
+                "open": "10:00",
+                "close": "20:00"
+            }
+        },
+        "facility": {
+            "restaurant": true,
+            "toilet": true,
+            "shower": true
+        }
+    }
+]
